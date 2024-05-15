@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **at IT faculty, HCMUS, Viet Nam**
+- 🌱 I’m a third-year student **at IT faculty, HCMUS, Viet Nam**
 
 - 📫 How to reach me **nmthong226@gmail.com**
 
