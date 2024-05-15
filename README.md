@@ -1,11 +1,11 @@
 <h1 align="left">Hi there 👋, I'm Thong Nguyen</h1>
 <h3 align="left">I currently focus on Web development and UI/UX design</h3>
 
-
+<p>
 - 🌱 I’m a third-year student **at IT faculty, HCMUS, Viet Nam**
 
 - 📫 How to reach me **nmthong226@gmail.com**
-
+</p>
 
 <h3 align="left">Tech stack</h3>
 
