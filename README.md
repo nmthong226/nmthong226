@@ -1,8 +1,6 @@
 <h1 align="left">Hi there 👋, I'm Thong Nguyen</h1>
 <h3 align="left">I currently focus on Web development and UI/UX design</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m a third-year student **at IT faculty, HCMUS, Viet Nam**
 
 - 📫 How to reach me **nmthong226@gmail.com**
