@@ -1,14 +1,10 @@
 <h1 align="left">Hi there 👋, I'm Thong Nguyen</h1>
-<h3 align="left">I currently focus on Web development and UI/UX design</h3>
+<h4 align="left">I currently focus on Web development and UI/UX design</h4>
 
-<p>
-- 🌱 I’m a third-year student **at IT faculty, HCMUS, Viet Nam**
+- 🌱 I study **at IT faculty, VNUHCM-University Of Science, Viet Nam**
 
-- 📫 How to reach me **nmthong226@gmail.com**
-</p>
-
+- 📫 Reach me at **nmthong226@gmail.com**
 <h3 align="left">Tech stack</h3>
-
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
