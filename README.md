@@ -38,8 +38,6 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmthong226&show_icons=true&locale=en&layout=compact" alt="nmthong226" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nmthong226&show_icons=true&locale=en" alt="nmthong226" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nmthong226&" alt="nmthong226" /></p>
