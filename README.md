@@ -1,5 +1,6 @@
 <h1 align="left">Hi there 👋, I'm Thong Nguyen</h1>
 <h4 align="left">I currently focus on Web development and UI/UX design</h4>
+<h4 align="left">I am also expecting on Game development</h4>
 
 - 🌱 I study **at IT faculty, VNUHCM-University Of Science, Viet Nam**
 
